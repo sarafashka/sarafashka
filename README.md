@@ -1,10 +1,13 @@
 ### Hi there 👋
-
+[![](https://www.codewars.com/users/sarafashka/badges/large)](https://www.codewars.com/users/sarafahka) 
 
 #### 📊 My certificates:
  - [RS School React 2022Q3](https://app.rs.school/certificate/7po4x47m)
  - [RS School JavaScript/Front-end 2022Q1](https://app.rs.school/certificate/spcsvp3v)
 
+#### 💾 Projects:
+ - [Backtesting App](https://sarafashka.github.io/backtesting-app/) lets evaluate trading strategies using historical data - [repo](https://github.com/sarafashka/backtesting-app)
+ - [Project Management System App](https://rss-react-pma.netlify.app/) - Kanban Board to manage your team's workflow - [repo](https://github.com/sarafashka/project-management-app)
 <!--
 **sarafashka/sarafashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
