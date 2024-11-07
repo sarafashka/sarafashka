@@ -8,6 +8,7 @@
 #### 💾 Projects:
  - [Backtesting App](https://sarafashka.github.io/backtesting-app/) lets evaluate trading strategies using historical data - [repo](https://github.com/sarafashka/backtesting-app)
  - [Project Management System App](https://rss-react-pma.netlify.app/) - Kanban Board to manage your team's workflow - [repo](https://github.com/sarafashka/project-management-app)
+ - [Cryptocoins App](https://cryptocoin-list.netlify.app) - Get some information about cryptocurrencies - [repo](https://github.com/sarafashka/cryptocoin-list)
 <!--
 **sarafashka/sarafashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
